@@ -1,4 +1,4 @@
 # passssce
 
-PassSSCE app
-Enabling pupils to be better than their best
+PassSSCE app.
+A fullstack angular application.
